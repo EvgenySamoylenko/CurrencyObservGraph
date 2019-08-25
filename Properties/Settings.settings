@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfSampleBasicChart.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EPC</Value>
+    </Setting>
+    <Setting Name="SQLConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=localhost; Initial Catalog=CurrencyState; Integrated Security=SSPI</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
